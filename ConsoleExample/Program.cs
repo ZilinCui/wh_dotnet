@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleExample.A03;
 
 namespace ConsoleExample
 {
@@ -6,7 +7,7 @@ namespace ConsoleExample
     {
         public static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World");
+            new SecondConsole();
         }
     }
 }

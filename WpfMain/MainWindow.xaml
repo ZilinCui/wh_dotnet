@@ -30,6 +30,7 @@
                             <Setter Property="Foreground" Value="Blue" />
                             <Setter Property="Background" Value="Transparent" />
                             <Setter Property="HorizontalContentAlignment" Value="Left" />
+                            <EventSetter Event="Click" Handler="Button_Click"/>
                         </Style>
                         <Style TargetType="Expander">
                             <Setter Property="Background" Value="AliceBlue" />
@@ -46,11 +47,13 @@
                         <Button Content="全部展开" Margin="0 5"/>
                         <Button Content="全部折叠" Margin="0 5"/>
                     </StackPanel>
-                    <Expander Header="第1章 概述">
+                    <Expander Header="A04">
                         <StackPanel>
-                            <Button Content="例1-1 [Console]Hello World ConsoleApp" Tag="Ch01/E01HelloWorldPage.xaml"/>
-                            <Button Content="例1-2 [WPF]Hello World WpfApp" Tag="Ch01/E02HelloWorldPage.xaml"/>
-                            <Button Content="例1-3 [Wpfz]Hello World Wpfz(WpfCustomControlLibrary)" Tag="Ch01/E03HelloWorldPage.xaml"/>
+                            <Button Content="A.3.1字符串处理" Tag="A03/FirstWpf.xaml"/>
+                            <Button Content="A.3.3类型转换" Tag="A03/SecondWpf.xaml"/>
+                            <Button Content="A.3.4数组排序和计算" Tag="A03/ThirdWpf.xaml"/>
+                            <Button Content="A.3.7求完数" Tag="A03/FourthWpf.xaml"/>
+                            <Button Content="A.3.8简单计算器" Tag="A03/FifthWpf.xaml" />
                         </StackPanel>
                     </Expander>
                 </StackPanel>

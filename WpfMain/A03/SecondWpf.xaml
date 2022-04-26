@@ -1,0 +1,12 @@
+﻿<Page x:Class="WpfMain.A03.SecondWpf"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfMain.A03"
+      mc:Ignorable="d"
+      Title="SecondWpf" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="A.3.3 类型转换"></TextBlock>
+    </Grid>
+</Page>

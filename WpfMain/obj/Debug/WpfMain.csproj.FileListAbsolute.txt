@@ -14,3 +14,13 @@ D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.Generate
 D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.CoreCompileInputs.cache
 D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.exe
 D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.pdb
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FirstWpf.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FirstWpf.baml
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\SecondWpf.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\SecondWpf.baml
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FifthWpf.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FourthWpf.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\ThirdWpf.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FifthWpf.baml
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\FourthWpf.baml
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\A03\ThirdWpf.baml
