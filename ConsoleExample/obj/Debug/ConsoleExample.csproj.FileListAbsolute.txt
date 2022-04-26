@@ -1,0 +1,7 @@
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\bin\Debug\ConsoleExample.exe
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\bin\Debug\ConsoleExample.pdb
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\obj\Debug\ConsoleExample.csproj.AssemblyReference.cache
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\obj\Debug\ConsoleExample.csproj.SuggestedBindingRedirects.cache
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\obj\Debug\ConsoleExample.csproj.CoreCompileInputs.cache
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\obj\Debug\ConsoleExample.exe
+D:\SOFT\program\c#\homework4\Solution1\ConsoleExample\obj\Debug\ConsoleExample.pdb

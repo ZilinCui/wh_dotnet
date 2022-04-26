@@ -1,0 +1,16 @@
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\bin\Debug\WpfMain.exe.config
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\bin\Debug\WpfMain.exe
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\bin\Debug\WpfMain.pdb
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.AssemblyReference.cache
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.SuggestedBindingRedirects.cache
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\MainWindow.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\App.g.cs
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain_MarkupCompile.cache
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain_MarkupCompile.lref
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\MainWindow.baml
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.g.resources
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.Properties.Resources.resources
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.GenerateResource.cache
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.csproj.CoreCompileInputs.cache
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.exe
+D:\SOFT\program\c#\homework4\Solution1\WpfMain\obj\Debug\WpfMain.pdb

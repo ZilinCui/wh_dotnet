@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExample", "WpfExample\WpfExample.csproj", "{F082A31C-706E-4E07-B06F-32999D2A2B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMain", "WpfMain\WpfMain.csproj", "{E39C51E4-4C9E-4579-938A-F156356E2652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleExample", "ConsoleExample\ConsoleExample.csproj", "{0B624BB2-318B-4565-B207-D34B221303EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F082A31C-706E-4E07-B06F-32999D2A2B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F082A31C-706E-4E07-B06F-32999D2A2B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F082A31C-706E-4E07-B06F-32999D2A2B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F082A31C-706E-4E07-B06F-32999D2A2B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39C51E4-4C9E-4579-938A-F156356E2652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39C51E4-4C9E-4579-938A-F156356E2652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39C51E4-4C9E-4579-938A-F156356E2652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39C51E4-4C9E-4579-938A-F156356E2652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B624BB2-318B-4565-B207-D34B221303EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B624BB2-318B-4565-B207-D34B221303EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B624BB2-318B-4565-B207-D34B221303EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B624BB2-318B-4565-B207-D34B221303EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
