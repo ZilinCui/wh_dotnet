@@ -28,9 +28,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected=".NET Project.ConsoleExample">
+  <component name="RunManager" selected=".NET Project.WpfMain">
+    <configuration name="package" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="rider.module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="package.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ConsoleExample" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleExample/bin/Debug/ConsoleExample.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -70,9 +79,11 @@
     <list>
       <item itemvalue=".NET Project.WpfMain" />
       <item itemvalue=".NET Project.ConsoleExample" />
+      <item itemvalue="Batch.package" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.package" />
         <item itemvalue=".NET Project.ConsoleExample" />
       </list>
     </recent_temporary>
@@ -88,6 +99,8 @@
       <workItem from="1650975686215" duration="395000" />
       <workItem from="1650976095532" duration="343000" />
       <workItem from="1651303309297" duration="1188000" />
+      <workItem from="1651304696769" duration="1308000" />
+      <workItem from="1651308032364" duration="110000" />
     </task>
     <servers />
   </component>
