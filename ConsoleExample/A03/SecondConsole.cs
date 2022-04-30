@@ -3,6 +3,7 @@
 namespace ConsoleExample.A03{
     public class SecondConsole{
         public SecondConsole() {
+            Console.WriteLine("请输入一个整数");
             while (true) {
                 string str = Console.ReadLine();
                 if (int.TryParse(str, out int n) == false) {
