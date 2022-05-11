@@ -7,11 +7,26 @@
     <projectFile>ConsoleExample/ConsoleExample.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb1b6d4-142f-494f-b5f7-75184aa3232c" name="Changes" comment="" />
+    <list default="true" id="aeb1b6d4-142f-494f-b5f7-75184aa3232c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConsoleExample/A04/FirstConsole.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/FirstWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/FirstWpf.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/SecondWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/SecondWpf.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/ThirdWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A04/ThirdWpf.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleExample/ConsoleExample.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleExample/ConsoleExample.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfMain/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfMain/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfMain/WpfMain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WpfMain/WpfMain.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/WpfMain/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
@@ -20,6 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28KqZIKjdaenM9zv6GkFO67T9A6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected=".NET Project.WpfMain">
+  <component name="RunManager" selected="Batch.package">
     <configuration name="package" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="rider.module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,10 +119,33 @@
       <workItem from="1651303309297" duration="1188000" />
       <workItem from="1651304696769" duration="1308000" />
       <workItem from="1651308032364" duration="110000" />
+      <workItem from="1651308171172" duration="578000" />
+      <workItem from="1652248305490" duration="1667000" />
     </task>
+    <task id="LOCAL-00001" summary="add the file which helps to compress project">
+      <created>1651308285906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651308285906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add the file which helps to compress project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the file which helps to compress project" />
   </component>
 </project>

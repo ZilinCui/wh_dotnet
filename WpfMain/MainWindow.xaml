@@ -47,13 +47,20 @@
                         <Button Content="全部展开" Margin="0 5"/>
                         <Button Content="全部折叠" Margin="0 5"/>
                     </StackPanel>
-                    <Expander Header="A04">
+                    <Expander Header="A03">
                         <StackPanel>
                             <Button Content="A.3.1字符串处理" Tag="A03/FirstWpf.xaml"/>
                             <Button Content="A.3.3类型转换" Tag="A03/SecondWpf.xaml"/>
                             <Button Content="A.3.4数组排序和计算" Tag="A03/ThirdWpf.xaml"/>
                             <Button Content="A.3.7求完数" Tag="A03/FourthWpf.xaml"/>
                             <Button Content="A.3.8简单计算器" Tag="A03/FifthWpf.xaml" />
+                        </StackPanel>
+                    </Expander>
+                    <Expander Header="A04">
+                        <StackPanel>
+                            <Button Content="A.4.1类和对象" Tag="A04/FirstWpf.xaml" />
+                            <Button Content="A.4.2课程信息" Tag="A04/SecondWpf.xaml" />
+                            <Button Content="A.4.3定时器" Tag="A04/ThirdWpf.xaml" />
                         </StackPanel>
                     </Expander>
                 </StackPanel>

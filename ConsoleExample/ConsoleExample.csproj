@@ -43,6 +43,7 @@
         <Compile Include="A03\FourthConsole.cs" />
         <Compile Include="A03\SecondConsole.cs" />
         <Compile Include="A03\ThirdConsole.cs" />
+        <Compile Include="A04\FirstConsole.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

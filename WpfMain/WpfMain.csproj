@@ -55,6 +55,9 @@
         <Page Include="A03\FourthWpf.xaml" />
         <Page Include="A03\SecondWpf.xaml" />
         <Page Include="A03\ThirdWpf.xaml" />
+        <Page Include="A04\FirstWpf.xaml" />
+        <Page Include="A04\SecondWpf.xaml" />
+        <Page Include="A04\ThirdWpf.xaml" />
         <Page Include="MainWindow.xaml">
             <Generator>MSBuild:Compile</Generator>
             <SubType>Designer</SubType>
@@ -72,6 +75,15 @@
           <DependentUpon>SecondWpf.xaml</DependentUpon>
         </Compile>
         <Compile Include="A03\ThirdWpf.xaml.cs">
+          <DependentUpon>ThirdWpf.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="A04\FirstWpf.xaml.cs">
+          <DependentUpon>FirstWpf.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="A04\SecondWpf.xaml.cs">
+          <DependentUpon>SecondWpf.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="A04\ThirdWpf.xaml.cs">
           <DependentUpon>ThirdWpf.xaml</DependentUpon>
         </Compile>
         <Compile Include="App.xaml.cs">
