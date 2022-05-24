@@ -63,6 +63,15 @@
                             <Button Content="A.4.3定时器" Tag="A04/ThirdWpf.xaml" />
                         </StackPanel>
                     </Expander>
+                    
+                    <Expander Header="A05">
+                        <StackPanel>
+                            <Button Content="A.5.1 类继承-构造函数（WPF）" Tag="A05/FirstWpf.xaml" />
+                            <Button Content="A.5.2 类继承-虚拟和重写（WPF）" Tag="A05/SecondWpf.xaml" />
+                            <Button Content="A.5.3 泛型列表（WPF）" Tag="A05/ThirdWpf.xaml" />
+                            <Button Content="A.5.4 补充LINQ部分" Tag="A05/FourthWpf.xaml" />
+                        </StackPanel>
+                    </Expander>
                 </StackPanel>
             </ScrollViewer>
             <GridSplitter Grid.Column="1" ResizeBehavior="PreviousAndNext" Width="6" Background="Red" Margin="5 0 0 0" />

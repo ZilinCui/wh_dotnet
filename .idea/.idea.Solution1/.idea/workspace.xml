@@ -8,13 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeb1b6d4-142f-494f-b5f7-75184aa3232c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConsoleExample/A04/FirstConsole.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/FirstWpf.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/FirstWpf.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/SecondWpf.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/SecondWpf.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/ThirdWpf.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WpfMain/A04/ThirdWpf.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/FirstWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/FirstWpf.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/SecondWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/SecondWpf.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/ThirdWpf.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WpfMain/A05/ThirdWpf.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleExample/ConsoleExample.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleExample/ConsoleExample.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WpfMain/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfMain/MainWindow.xaml" afterDir="false" />
@@ -120,7 +119,8 @@
       <workItem from="1651304696769" duration="1308000" />
       <workItem from="1651308032364" duration="110000" />
       <workItem from="1651308171172" duration="578000" />
-      <workItem from="1652248305490" duration="1667000" />
+      <workItem from="1652248305490" duration="1775000" />
+      <workItem from="1653392465111" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="add the file which helps to compress project">
       <created>1651308285906</created>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651308285906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish the fuluA 04 homework">
+      <created>1652250020348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652250020348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add the file which helps to compress project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add the file which helps to compress project" />
+    <MESSAGE value="finish the fuluA 04 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the fuluA 04 homework" />
   </component>
 </project>
