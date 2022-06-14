@@ -1,0 +1,26 @@
+﻿<Page x:Class="WpfMain.A06.SecondWpf"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:WpfMain.A06"
+      mc:Ignorable="d"
+      Title="SecondWpf" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DockPanel Margin="10">
+            <Label Content="文件路径："/>
+            <Button Name="btnRead" Content="读取文件" Padding="10 0" Margin="10 0 0 0" DockPanel.Dock="Right"/>
+            <Button Name="btnBrower" Content="浏览" Padding="10 0" Margin="10 0 0 0" DockPanel.Dock="Right"/>
+            <TextBox Name="textBoxFilePath"/>
+        </DockPanel>
+        <Border Grid.Row="1" BorderBrush="AliceBlue" BorderThickness="2">
+            <TextBox Name="textBox1" AcceptsReturn="True" TextWrapping="Wrap"/>
+        </Border>
+        <Button Name="btnSave" Grid.Row="2" Content="保存文件" Margin="0 10 0 0" HorizontalAlignment="Center" Padding="10 0"/>
+    </Grid>
+</Page>

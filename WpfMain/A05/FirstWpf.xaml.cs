@@ -7,11 +7,13 @@ namespace WpfMain.A05{
 
             InitializeComponent();
 
+            InitializeComponent();
             //（4）
             Loaded += delegate {
                 B b = new C();
                 TextBlock1.Text = b.Result;
             };
+            
         }
 
         public class A{
